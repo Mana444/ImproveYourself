@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ImproveYourself</string>
+    <string name="pseudo">PSEUDO :</string>
+    <string name="mot_de_passe">MOT DE PASSE :</string>
+    <string name="se_souvenir_de_moi">Se souvenir de moi ?</string>
+    <string name="se_connecter">Se Connecter</string>
+
+</resources>

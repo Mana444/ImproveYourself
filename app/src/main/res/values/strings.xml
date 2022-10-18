@@ -4,5 +4,7 @@
     <string name="mot_de_passe">MOT DE PASSE :</string>
     <string name="se_souvenir_de_moi">Se souvenir de moi ?</string>
     <string name="se_connecter">Se Connecter</string>
+    <string name="mon_profil">Mano</string>
+    <string name="ma_liste_enchainements">Ma liste d\'enchainements</string>
 
 </resources>
